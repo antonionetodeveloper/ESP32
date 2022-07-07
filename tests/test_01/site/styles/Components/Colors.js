@@ -1,0 +1,3 @@
+/*                  PALLET                  */
+
+// export const ColorOwn = ....
